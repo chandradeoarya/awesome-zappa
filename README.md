@@ -20,3 +20,18 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Legend](#legend)
 - [What is Zappa](#what-is-zappa)
+<!-- /TOC -->
+
+# Legend
+
+- Abandoned :skull:
+- Beta :construction:
+- Monetized :heavy_dollar_sign:
+
+# What is Docker
+
+> Zappa makes it super easy to build and deploy server-less, event-driven Python applications (including, but not limited to, WSGI web apps) on AWS Lambda + API Gateway. Think of it as "serverless" web hosting for your Python apps. That means infinite scaling, zero downtime, zero maintenance - and at a fraction of the cost of your current deployments!
+
+# Where to start
+
+- [Benefits of using Zappa](https://techbeacon.com/enterprise-it/serverless-development-evolves-why-my-team-uses-zappa) for development and deployment with reason for choosing over AWS SAM.
