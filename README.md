@@ -20,6 +20,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Legend](#legend)
 - [What is Zappa](#what-is-zappa)
+- [Where to start](#where-to-start)
+
 <!-- /TOC -->
 
 # Legend
